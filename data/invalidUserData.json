@@ -1,0 +1,11 @@
+  {
+      "firstName": "",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "dateOfBirth": "1985-10-01",
+      "personalIdDocument": {
+        "documentId": "AB123456",
+        "countryOfIssue": "US",
+        "validUntil": "2030-12-31"
+      }
+    }

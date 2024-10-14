@@ -1,0 +1,13 @@
+ {
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "email": "jane.smith@example.com",
+      "dateOfBirth": "1990-05-12",
+      "personalIdDocument": {
+        "documentId": "CD789012",
+        "countryOfIssue": "CA",
+        "validUntil": "2028-11-15"
+      }
+    }
+
+  

@@ -1,0 +1,5 @@
+{
+    "notFound": "User not found",
+    "invInput":"Invalid Input",
+    "unAuth":"Unauthorized"
+}
